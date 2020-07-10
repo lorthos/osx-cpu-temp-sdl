@@ -1,3 +1,9 @@
+# Fork Note
+
+Created a small SDL window to display cpu and gpu temperature.
+Requires SDL and SDL_TTF to build.
+
+
 # OSX CPU Temp
 
 Outputs current CPU temperature for OSX.
